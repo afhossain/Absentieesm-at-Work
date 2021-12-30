@@ -13,4 +13,4 @@ The follwing steps are taken to complete the analysis-
   5. Some classification models such as Naive Bias,Decision Tree,Random Forest,KNeighbors were applied and found below performance comparision in terms of accuracy-
      ![image](https://user-images.githubusercontent.com/40394681/147748471-544e91b6-a2c9-47eb-8994-af7a67034eb7.png)
   6. The best performing model was RandomForest. Then Hyperparaeter tuning(RandomizedSearchCV) was done for Random Forest algorithm to lift up the accuracy level.
-  7. Finally we got 90.09 % accuracy using the best parameter.
+  7. Finally we got 90.54% accuracy using the best parameter.
