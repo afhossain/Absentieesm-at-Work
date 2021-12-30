@@ -7,11 +7,12 @@ The follwing steps are taken to complete the analysis-
   1. Exploratory Data Analysis (EDA) was done .
   ![image](https://user-images.githubusercontent.com/40394681/147746714-a22f034f-028d-4ca0-963f-66fa885c72dd.png)
   2. Data Cleaning was done
-  3. As the it was an imbalanced dataset,to create a balance SMOTE was applied after splitting dataset into test-train, to -
+  3. It was an imbalanced dataset. To create a balance SMOTE was applied after splitting dataset into test-train.
     ![image](https://user-images.githubusercontent.com/40394681/147747039-e1400240-cb65-41be-b35c-e56c2ef23f83.png)
   4. MinMaxScaler was applied 
   5. Some classification model such as Naive Bias,Decision Tree,Random Forest,KNeighbors are applied and found below performance comparision in terms of accuracy-
-   ![image](https://user-images.githubusercontent.com/40394681/147748471-544e91b6-a2c9-47eb-8994-af7a67034eb7.png)
-  6. Here the best performing model was RandomForest. The Hyperparaeter tuning(RandomizedSearchCV) was done for Random Forest algorithm to lift up the accuracy level.
+  
+     ![image](https://user-images.githubusercontent.com/40394681/147748471-544e91b6-a2c9-47eb-8994-af7a67034eb7.png)
+  6. Here the best performing model was RandomForest. Then Hyperparaeter tuning(RandomizedSearchCV) was done for Random Forest algorithm to lift up the accuracy level.
   7. Finally we got 90.09 % accuracy using the best parameter.
 
