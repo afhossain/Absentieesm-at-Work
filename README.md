@@ -1,1 +1,4 @@
 # Absentieesm-at-Work
+Poor delivery has a significant influence on a customer's online buying experience. According to new study, late delivery is the leading cause of consumer complaints on Twitter. Any Company's client retention rate will suffer as a result of late delivery. As a result, late deliveries significantly reduce the lifetime value of your customers. Thus, on-time delivery is critical for customer retention. 
+
+One of the reasons why e-commerce companies are not able to deliver products on time is the absence of delivery men at work. Using data mining approaches, we created a prediction mechanism to predict absence at work in a Brazilian courier company. The dataset, which spans three years (from July 2007 to July 2010), is freely available on Kaggle and contains information about the company's absenteeism.
